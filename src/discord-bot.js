@@ -20,9 +20,8 @@ class DiscordBot {
         // Event listener for when the client is ready
         this.client.once(Events.ClientReady, client => {
           client.user.setPresence({
-  activities: [{ name: `🤔 Imagining images`, type: ActivityType.Competing }],
-  url: "https://www.twitch.tv/withgex",
-  status: 'idle',
+  activities: [{ name: `Soporte: https://dsc.gg/gex`, type: ActivityType.Watching }],
+  status: 'online',
 });
             console.log(`[📶 Status]: Logged in as ${client.user.tag} is now online!`);
             console.log('\x1b[36m', '▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬' ,'\x1b[0m');
