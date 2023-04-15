@@ -1,9 +1,37 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Yet+Another+Imaginary+Creativity+Prompt" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Yet+Another+Elixze AI" />
 </p>
 
-
+Row(
+  mainAxisSize: MainAxisSize.min,
+  children: <Widget>[
+    const SizedBox(width: 20.0, height: 100.0),
+    const Text(
+      'YAICP',
+      style: TextStyle(fontSize: 43.0),
+    ),
+    const SizedBox(width: 20.0, height: 100.0),
+    DefaultTextStyle(
+      style: const TextStyle(
+        fontSize: 40.0,
+        fontFamily: 'Horizon',
+      ),
+      child: AnimatedTextKit(
+        animatedTexts: [
+          RotateAnimatedText('YET'),
+          RotateAnimatedText('ANOTHER'),
+          RotateAnimatedText('IMAGINARY'),
+          RotateAnimatedText('CREATIVITY'),
+          RotateAnimatedText('PROMT'),
+        ],
+        onTap: () {
+          print("Tap Event");
+        },
+      ),
+    ),
+  ],
+);
 
 
 ## Setting up a development environment
