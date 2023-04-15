@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Yet+Another+Elixze AI" />
 </p>
 
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px">
 Row(
   mainAxisSize: MainAxisSize.min,
   children: <Widget>[
