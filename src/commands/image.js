@@ -36,7 +36,7 @@ module.exports = {
         .setTitle(title.toUpperCase()) // title of the embed
         .setAuthor({ // author of the embed
           name: 'ElixzeAI',
-          iconURL: 'https://tenor.googleapis.com/v2/media?id=12699164350509169988&format=optimizedgif&client_key=tenor_web&access_token=ya29.a0Ael9sCPTNPUjh1hmeuYJjadqDV1ZSU4mAcN9sG4EWCxLhXm_I4-aEGJLkG2DoZhKlAKhMIv97F0eEh2o_B93_ZreuxjM65VNGVLy1fgOXXEdxiwgR_HihC6rLQyEKcUdCoJMrjzHprGCFxx31-hKnylhE57OaCgYKAVkSARESFQF4udJh08ZZoKMB5O6RF2rYNSlA5A0163&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8',
+          iconURL: 'https://tenor.com/es/view/cat-gif-6677819799585058206',
           url: 'https://withgex.wixsite.com/tools/yaicp'
         }) 
         .setImage(url) // image of the embed
