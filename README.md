@@ -4,38 +4,6 @@
 </p>
 
 
-import 'package:animated_text_kit/animated_text_kit.dart';
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: <Widget>[
-    const SizedBox(width: 20.0, height: 100.0),
-    const Text(
-      'YAICP',
-      style: TextStyle(fontSize: 43.0),
-    ),
-    const SizedBox(width: 20.0, height: 100.0),
-    DefaultTextStyle(
-      style: const TextStyle(
-        fontSize: 40.0,
-        fontFamily: 'Horizon',
-      ),
-      child: AnimatedTextKit(
-        animatedTexts: [
-          RotateAnimatedText('YET'),
-          RotateAnimatedText('ANOTHER'),
-          RotateAnimatedText('IMAGINARY'),
-          RotateAnimatedText('CREATIVITY'),
-          RotateAnimatedText('PROMT'),
-        ],
-        onTap: () {
-          print("Tap Event");
-        },
-      ),
-    ),
-  ],
-);
-
-
 ## Setting up a development environment
 
 **1. Clone your fork** [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
