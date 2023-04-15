@@ -1,5 +1,5 @@
 ##  🌌 Creditos
-[Gex] (https://github.com/dwithgex) 
+[Gex](https://github.com/dwithgex) 
 
 [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/withgex/withgex-Lobby-Bot-Template.git)
 
