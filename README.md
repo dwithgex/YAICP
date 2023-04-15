@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Elixze+AI" />
 </p>
 
-[![Code Climate](https://codeclimate.com/github/mattboldt/typed.js/badges/gpa.svg)](https://codeclimate.com/github/mattboldt/typed.js)
-[![GitHub release](https://img.shields.io/github/release/mattboldt/typed.js.svg)]()
+[![Code Climate](https://codeclimate.com/github/mattboldt/typed.js/badges/gpa.svg)](https://codeclimate.com/github/dwithgex/typed.js)
+[![GitHub release](https://img.shields.io/github/release/dwithgex/typed.js.svg)]()
 
 
 ## Setting up a development environment
