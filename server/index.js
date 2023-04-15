@@ -59,7 +59,7 @@ app.route('/database')
     });
 // Start the Express application
 app.listen(process.env.PORT, () => {
-    console.log(`Server is listening on port ${process.env.PORT}`);
+    console.log(`[🌐 Server]: Listening on port ${process.env.PORT}`);
 });
 
   // Console-Logs
