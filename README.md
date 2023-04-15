@@ -33,6 +33,18 @@ Row(
     ),
   ],
 );
+  
+AnimatedTextKit(
+  animatedTexts: [
+    CustomAnimatedText(
+      'Insert Text Here',
+      textStyle: const TextStyle(
+        fontSize: 32.0,
+        fontWeight: FontWeight.bold,
+      ),
+    ),
+  ],
+),
 
 
 ## Setting up a development environment
