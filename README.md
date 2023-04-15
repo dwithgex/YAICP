@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Yet+Another+Elixze AI" />
 </p>
 
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px">
+
+import 'package:animated_text_kit/animated_text_kit.dart';
 Row(
   mainAxisSize: MainAxisSize.min,
   children: <Widget>[
@@ -33,18 +34,6 @@ Row(
     ),
   ],
 );
-  
-AnimatedTextKit(
-  animatedTexts: [
-    CustomAnimatedText(
-      'Insert Text Here',
-      textStyle: const TextStyle(
-        fontSize: 32.0,
-        fontWeight: FontWeight.bold,
-      ),
-    ),
-  ],
-),
 
 
 ## Setting up a development environment
