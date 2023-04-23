@@ -1,7 +1,8 @@
 
+[![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Elixze+AI" />
-</p> [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
+</p>
 
 
 <p align="center">
@@ -9,19 +10,19 @@
 </p>
 
 
-## Setting up a development environment
+## Configuración de YAICP
 
-**1. Clone your fork**
+**1. Clona el trabajo**
 ```bash
 git clone https://github.com/dwithgex/YAICP-AI.git
 ```
 
-**2. Config the Run Command**
+**2. Configura el comando de ejecución**
 ```bash
 npm run start
 ```
 
-**3. Config Secrets .env**
+**3. Configura Secrets .env**
 ```
 DISCORD_TOKEN = YOUR BOT TOKEN (SECRETS)
 CLIENT_ID = YOUR BOT ID (SECRETS)
@@ -31,21 +32,23 @@ PORT = 3000 (default) (SECRETS)
 ADMIN_KEY (SECRETS) (NO NECESARIO)
 ```
 
-**4. Run the Porject!** 
+**4. Enciende el Proyecto!** 
 
 
 
-After this, simply, in the console, the bot invitation link is generated to invite it to your Discord server!
+Después de esto, simplemente, en la consola, se genera el enlace de invitación del bot para invitarlo a su servidor de Discord.
 
 
 
-## 🌌 Support
-Si encuentra errores, problemas o tiene recomendaciones, no dude en unirse a Discord [here.](https://discord.gg/TmyJfq49AP)[![Discord Invite Widget](http://invidget.switchblade.xyz/870691606297206814)](https://discord.com/invite/ZzQ5xzbQGc)
+## 👤 Soporte
+Si encuentra errores, problemas o tiene recomendaciones, no dude en unirse a Discord 
+[here.](https://discord.gg/TmyJfq49AP)[![Discord Invite Widget](http://invidget.switchblade.xyz/870691606297206814)](https://discord.com/invite/ZzQ5xzbQGc)
 
 
-##  🌌 Credits
-```Copyright (©) 2023
-- Elixze AI
-- WithGex Tools (Project's Name and Corporate Image)
-- Lorenzo Indiano Confortin (Code)
+##  🌌 Créditos
+```diff
++ Copyright (©) 2023
+Elixze AI
+WithGex Tools (Project's Name and Corporate Image)
+Lorenzo Indiano Confortin (Code)
 ```
