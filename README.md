@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Elixze+AI" />
-</p>
+</p> [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## Setting up a development environment
 
-**1. Clone your fork** [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
+**1. Clone your fork**
 ```bash
 git clone https://github.com/dwithgex/YAICP-AI.git
 ```
@@ -45,7 +45,7 @@ Si encuentra errores, problemas o tiene recomendaciones, no dude en unirse a Dis
 
 ##  🌌 Credits
 ```Copyright (©) 2023
-Elixze AI
-WithGex Tools (Project's Name and Corporate Image)
-Lorenzo Indiano Confortin (Code)
+- Elixze AI
+- WithGex Tools (Project's Name and Corporate Image)
+- Lorenzo Indiano Confortin (Code)
 ```
