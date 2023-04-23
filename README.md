@@ -4,6 +4,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/923942428497567795/1099710157937725500/yaicp_banner.png" />
+</p>
+
+
 ## Setting up a development environment
 
 **1. Clone your fork** [![Run on Repl.it](https://replit.com/badge/github/LobbyBot/Gex)](https://github.com/dwithgex/YAICP.git)
