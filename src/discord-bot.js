@@ -31,6 +31,7 @@ class DiscordBot {
 
         // Initialize and deploy client commands to the server
         this.client.commands = new CommandsManager();
+        this.client.commands.deploy(process.env.CLIENT_ID);
         //this.client.commands.deploy(process.env.CLIENT_ID, process.env.GUILD_ID);
 
         // Event listener for when a message is created in a guild
