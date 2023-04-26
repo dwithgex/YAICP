@@ -36,7 +36,7 @@ module.exports = {
         .setTitle(title.toUpperCase()) // title of the embed
         .setAuthor({ // author of the embed
           name: 'ElixzeAI',
-          iconURL: 'https://tenor.com/es/view/cat-gif-6677819799585058206',
+          iconURL: 'https://cdn.discordapp.com/attachments/923942428497567795/1100887225106976848/logo_on_discord_Elixze_black.png',
           url: 'https://withgex.wixsite.com/tools/yaicp'
         }) 
         .setImage(url) // image of the embed
